@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-id" target="_blank">
+  <a href="https://www.linkedin.com/in/viraj-g-ab376524a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:viraj.gawari28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/virajgawari">
@@ -29,7 +29,7 @@ I am a **final-year Computer Engineering student** passionate about solving real
 * 🔭 I’m currently working on **Advanced NLP Systems**.
 * 🎓 I’m currently completing my **Bachelor's in Computer Engineering**.
 * 💼 I'm actively looking for **Entry-level Data Analyst / Data Scientist** roles.
-* 📫 How to reach me: **[Insert Your Email Here]**
+* 📫 How to reach me: **viraj.gawari28@gmail.com**
 
 ---
 
@@ -62,25 +62,25 @@ I am a **final-year Computer Engineering student** passionate about solving real
 
 ## 🚀 Featured Projects
 
-### 📊 **[Data Analyst Job Insights](LINK_TO_REPO)**
+### 📊 **[Data Analyst Job in Canada](https://github.com/virajgawari/Data-Analyst-job-in-Canada)**
 *A comprehensive analysis of the data job market.*
-* Analyzed salary trends and employer requirements to derive actionable career insights.
+* Analyzed salary trends, skills required, and employer insights in the Canadian market.
 * **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
 
-### 📈 **[Sales Forecasting Web App](LINK_TO_REPO)**
+### 📈 **[Sales Forecasting System](https://github.com/virajgawari/sales-forecasting-system)**
 *Predicting future sales using machine learning algorithms.*
-* Built a regression model to forecast sales and deployed it via a user-friendly web interface.
+* Built a regression model to forecast business sales and deployed it via a web interface.
 * **Tech Stack:** `Scikit-learn` `Flask` `HTML/CSS`
 
-### 🕵️ **[Fake News Detection System](LINK_TO_REPO)**
-*NLP-based classifier to identify misinformation.*
-* Implemented text preprocessing (tokenization, lemmatization) and trained classification models for high accuracy.
-* **Tech Stack:** `NLP` `Python` `Scikit-learn`
+### 🎮 **[Games Recommendation System](https://github.com/virajgawari/Games-Recommendation-System)**
+*Content-based recommendation engine.*
+* Suggests video games to users based on similarity metrics and metadata analysis.
+* **Tech Stack:** `Python` `Cosine Similarity` `Pandas` `Scikit-learn`
 
-### 📄 **[AI PDF Summarizer](LINK_TO_REPO)**
-*Automated document summarization tool.*
-* Allows users to upload PDFs and generates concise, chapter-wise summaries using AI.
-* **Tech Stack:** `Python` `Transformers` `Streamlit/Flask`
+### 📝 **[Text Summary Generator](https://github.com/virajgawari/Text-Summary-Generator)**
+*Automated text summarization tool.*
+* A system that processes long-form text and generates concise summaries using NLP techniques.
+* **Tech Stack:** `Python` `NLP` `NLTK/Spacy`
 
 ---
 
