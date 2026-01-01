@@ -1,87 +1,89 @@
-<h1 align="center">Hi 👋, I'm Viraj Gawari</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Problem Solver</h3>
+<h1 align="center">✨ Viraj Gawari ✨</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denthe123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+%26+AI+Enthusiast;Turning+Data+Into+Insights;Building+AI+Powered+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=virajgawari&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🌟 About Me  
 
-- 🎓 Final-year **Computer Engineering** student  
-- 📊 Strong in **Data Analytics, Machine Learning & AI**  
-- 🤖 Building projects with **Python, ML models & LLM concepts**  
-- 🌱 Currently learning **Advanced ML & Generative AI**  
-- 🧠 I believe in *learning by building real projects*  
+🎓 Final-year **Computer Engineering** student  
+📊 Passionate about **Data Science, Machine Learning & AI**  
+🤖 Exploring **LLMs, AI Agents & Generative AI**  
+🚀 Love building **real-world, impactful projects**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧠 Skills & Tools  
 
-### 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-1e293b?style=for-the-badge&logo=mysql)
 
 ### 📊 Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-1e293b?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1e293b?style=for-the-badge&logo=numpy)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-1e293b?style=for-the-badge&logo=scikit-learn)
+![PowerBI](https://img.shields.io/badge/Power%20BI-1e293b?style=for-the-badge&logo=powerbi)
 
 ### 🌐 Web & Deployment
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Flask](https://img.shields.io/badge/Flask-1e293b?style=for-the-badge&logo=flask)
+![HTML](https://img.shields.io/badge/HTML-1e293b?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1e293b?style=for-the-badge&logo=css3)
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Featured Projects  
 
 🔹 **Data Analyst Job Insights**  
-> Salary analysis, employer insights, data cleaning & visualization  
-🔗 *GitHub Repo available*
+📈 Salary trends · Employer analysis · Visual dashboards  
 
 🔹 **Sales Forecasting Web App**  
-> ML-based forecasting + Flask deployment  
+📊 ML forecasting · Flask deployment  
 
-🔹 **Fake News Detection**  
-> NLP + classification models for accuracy-focused prediction  
+🔹 **Fake News Detection System**  
+📰 NLP · ML classification  
 
-🔹 **PDF Summarizer (AI-based)**  
-> Upload PDFs → chapter-wise summaries  
+🔹 **AI PDF Summarizer**  
+📄 Upload PDF → Smart summaries  
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denthe123&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denthe123&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=virajgawari&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=virajgawari&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 🧠 Currently Working On  
+## 🔥 What I’m Working On  
 
-- 🧪 Advanced Machine Learning Projects  
-- 🤖 AI Agents & LLM-based systems  
-- 🌐 Deploying ML models as web apps  
+- Advanced **Machine Learning models**
+- **Generative AI & LLM-based applications**
+- AI-powered **web platforms**
 
 ---
 
-## 📫 Connect With Me  
+## 🤝 Connect With Me  
 
-<p align="left">
-  <a href="https://github.com/denthe123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<p align="center">
+  <a href="https://github.com/virajgawari">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+<p align="center">
+  <sub>✨ aesthetic • modern • data-driven ✨</sub>
+</p>
