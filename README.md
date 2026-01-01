@@ -1,4 +1,4 @@
-<h1 align="center">👋 Viraj Gawari</h1>
+<h1 align="center">Viraj Gawari</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+%26+AI+Enthusiast;Turning+Data+Into+Insights;Building+Production-Ready+ML+Projects" />
@@ -10,59 +10,65 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-🎓 Final-year **Computer Engineering** student  
-📊 Focused on **Data Science, Machine Learning & AI**  
-🧠 Strong in **EDA, ML models & real-world projects**  
-🚀 Actively seeking **entry-level Data Analyst / Data Scientist roles**
+I am a **final-year Computer Engineering student** with a strong focus on  
+**Data Science, Machine Learning, and AI**.
 
----
+I enjoy working on:
+- Data analysis and visualization  
+- Building and evaluating ML models  
+- Solving real-world problems using data  
 
-## 🛠️ Skills & Tools
-
-### 💻 Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css&perline=6" />
-</p>
-
-### 📊 Data & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&perline=6" />
-</p>
-
-### 🌐 Tools & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,git,github&perline=6" />
-</p>
+📍 Open to **entry-level Data Analyst / Data Scientist roles**.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Skills
 
-📊 **Data Analyst Job Insights**  
-• Salary analysis, employer insights & visualization  
+**Programming & Databases**  
+Python · SQL  
 
-📈 **Sales Forecasting Web App**  
-• Machine learning forecasting with Flask deployment  
+**Data & Machine Learning**  
+Pandas · NumPy · Scikit-learn  
+Exploratory Data Analysis · Feature Engineering · Model Evaluation  
 
-📰 **Fake News Detection System**  
-• NLP preprocessing & classification  
+**Visualization & BI**  
+Power BI · Matplotlib · Seaborn  
 
-📄 **AI PDF Summarizer**  
-• Chapter-wise intelligent summaries  
+**Web & Tools**  
+Flask · HTML · CSS · Git · GitHub  
+
+---
+
+## 🚀 Selected Projects
+
+**Data Analyst Job Insights**  
+Salary trend analysis, employer insights, and data visualization for decision-making.
+
+**Sales Forecasting Web Application**  
+Machine learning-based forecasting with a Flask web interface.
+
+**Fake News Detection System**  
+NLP preprocessing and classification models focused on accuracy.
+
+**AI PDF Summarizer**  
+Upload PDFs and generate clean, chapter-wise summaries.
+
+---
+
+## 📊 GitHub Activity
+
+- Consistent project-based learning  
+- Clean and readable commit history  
+- Well-documented repositories  
+- Focus on data science and machine learning projects  
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/virajgawari">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-  <a href="https://www.linkedin.com/in/viraj-g-ab376524a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-</p>
+GitHub: https://github.com/virajgawari  
+LinkedIn: https://www.linkedin.com/in/viraj-g-ab376524a/
 
 ---
