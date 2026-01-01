@@ -22,7 +22,6 @@
 
 I am a **final-year Computer Engineering student** passionate about solving real-world problems through data. I specialize in building predictive models, visualizing complex datasets, and developing production-ready AI applications.
 
-* 🔭 I’m currently working on **Advanced NLP Systems**.
 * 🎓 I’m currently completing my **Bachelor's in Computer Engineering**.
 * 💼 I'm actively looking for **Entry-level Data Analyst / Data Scientist** roles.
 * 📫 How to reach me: **viraj.gawari28@gmail.com**
