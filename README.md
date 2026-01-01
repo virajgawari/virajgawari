@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virajgawari&label=Profile%20Views&color=2563EB&style=flat-square" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
